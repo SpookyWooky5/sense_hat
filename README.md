@@ -10,3 +10,5 @@ Moving the Joystick Up or Down increases/decreases the size of the square.
 Moving the Joystick Left or Right changes the colour in a specific order.
 
 Video will be up soon on youtube.
+
+I am relatively new to Python and GitHub so if you have any suggestions on how to improve my code please tell me via email.
