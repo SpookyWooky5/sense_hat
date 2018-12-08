@@ -1,5 +1,5 @@
 '''
-@Author --> Aditya Medhe
+@Author --> SpookyWooky5
 '''
 from sense_hat import SenseHat
 import time
